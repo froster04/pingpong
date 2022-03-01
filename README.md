@@ -1,2 +1,2 @@
 # pingpong
-My first game
+My first game made in python.
