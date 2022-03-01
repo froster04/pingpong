@@ -3,7 +3,7 @@ import os
 
 #screen
 wd = turtle.Screen() #seting up the screen
-wd.title("pingpong by @froster") #title for the screen
+wd.title("pingpong by @froster04") #title for the screen
 wd.bgcolor("grey") #bg colour of the screen
 wd.setup(width=800, height=600) #screen dimensinons
 wd.tracer(0)
